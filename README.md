@@ -44,6 +44,8 @@ Supported APIs
 * getProjectList
 * getProject
 * getCategoryList
+* addCategory
+* getIssueTypeList
 
 License
 -
