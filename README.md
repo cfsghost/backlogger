@@ -40,12 +40,14 @@ backlogger
 Supported APIs
 -
 * getIssuesList
+* addIssue
 * getUserList
 * getProjectList
 * getProject
 * getCategoryList
 * addCategory
 * getIssueTypeList
+* getPriorityList
 
 License
 -
