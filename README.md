@@ -42,6 +42,7 @@ Supported APIs
 * getIssuesList
 * getUserList
 * getProjectList
+* getProject
 
 
 License
