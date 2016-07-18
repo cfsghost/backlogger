@@ -23,7 +23,7 @@ backlogger.getUserList().then(function(users) {
     console.log(users);
 });
 
-// Using API with URL parameters (please to read Backlog official API documentation)
+// Using API with URL parameters (please read Backlog official API documentation)
 // Documentation: http://developer.nulab-inc.com/docs/backlog/api/2/get-project
 // Example: /api/v2/projects/:projectIdOrKey
 // projectIdOrKey is the URL parameter supported by API
