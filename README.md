@@ -43,7 +43,7 @@ Supported APIs
 * getUserList
 * getProjectList
 * getProject
-
+* getCategoryList
 
 License
 -
