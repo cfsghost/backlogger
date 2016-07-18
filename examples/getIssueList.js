@@ -1,8 +1,8 @@
-var Backloger = require('../');
+var Backlogger = require('../');
 
-var backloger = new Backloger(process.argv[2], process.argv[3]);
+var backlogger = new Backlogger(process.argv[2], process.argv[3]);
 
-backloger
+backlogger
 	.getIssueList().then(function(ret) {
 		console.log(ret);
 	});
