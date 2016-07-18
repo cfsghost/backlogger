@@ -1,5 +1,5 @@
 {
-  "name": "backloger",
+  "name": "backlogger",
   "version": "0.0.1",
   "description": "Backlog API in Node.js",
   "main": "./lib/backloger.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cfsghost/backloger.git"
+    "url": "git+https://github.com/cfsghost/backlogger.git"
   },
   "keywords": [
     "api",
@@ -17,9 +17,9 @@
   "author": "Fred Chien <cfsghost@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/cfsghost/backloger/issues"
+    "url": "https://github.com/cfsghost/backlogger/issues"
   },
-  "homepage": "https://github.com/cfsghost/backloger#readme",
+  "homepage": "https://github.com/cfsghost/backlogger#readme",
   "dependencies": {
     "request": "^2.73.0"
   }
