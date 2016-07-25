@@ -6,6 +6,7 @@ backlogger
 	.addIssue({
 		params: {
 			projectId: process.argv[4],
+			parentIssueId: process.argv[7],
 			summary: process.argv[5],
 			issueTypeId: process.argv[6],
 			categoryId: [
